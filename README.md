@@ -20,13 +20,13 @@
 ## :heavy_check_mark: :computer: :arrow_right: Web Result
 
 <h1 align="center">
-    <img alt="Output" src="./assets/next-rest-web.mp4">
+    <img alt="Output" src="./assets/next-rest-web.gif">
 </h1>
 
 ## :heavy_check_mark: :computer: :arrow_right: Mobile Result
 
 <h1 align="center">
-    <img alt="Output" src="./assets/next-rest-mobile.mp4">
+    <img alt="Output" src="./assets/next-rest-mobile.gif">
 </h1>
 
 ## 🚀 Technologies
